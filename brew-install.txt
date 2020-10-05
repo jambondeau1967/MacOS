@@ -1,0 +1,15 @@
+
+Brew or Homebrew
+
+source:
+https://brew.sh
+
+1. install xcode-tools
+-- document xcode-tools install in this repo.
+Brew install will show a pop-up to install xcode-tools. 
+It might take while, that is why I like to do it in advance.
+
+2. open terminal, then copy the next line after prompt and press enter:
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+
+

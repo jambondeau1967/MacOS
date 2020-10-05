@@ -1,0 +1,14 @@
+
+You might need this if you want to use Homebrew for example.
+
+open terminal and type:
+xcode-select —install
+press enter --> do you want to install now..: yes.
+
+It might take a while.. 
+
+Now you have tools in the next directory:
+
+/Library/Developer/CommandLineTools/
+/Library/Developer/CommandLineTools/usr/bin/
+Note: this is NOT your home Library directory (~/Library) !

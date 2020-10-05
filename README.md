@@ -1,2 +1,2 @@
 # MacOS
- MacOS tips
+My external memory.
